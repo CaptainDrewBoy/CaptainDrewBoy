@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaptainDrewBoy
-- 👀 I’m interested in making games utlities, or whatever interests me
-- 🌱 I’m currently learning common lisp
+- 👀 I’m interested in making games, utlities, or whatever interests me
+- 🌱 I’m currently learning haskell
 - 💞️ I’m looking to collaborate on nothing rn
 - 📫 How to reach me - if you don't know, you probably don't need to
 
