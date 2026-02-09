@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @CaptainDrewBoy
-- 👀 I’m interested in making games, utlities, or whatever interests me
-- 🌱 I’m currently learning haskell
-- 💞️ I’m looking to collaborate on nothing rn
-- 📫 How to reach me - if you don't know, you probably don't need to
-
-I love linux and free software!
+I gotta freakin believe
 
 <!---
 CaptainDrewBoy/CaptainDrewBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
